@@ -1,0 +1,28 @@
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between;
+}
+.harsh{
+  background-color: brown;  
+ display:flex;
+ flex-direction: column;   
+ justify-content: first baseline;
+}
+
+.harsh1{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
+.grib{
+   background-color: blanchedalmond;   
+   display: flex;
+   justify-content: flex-end;
+}
